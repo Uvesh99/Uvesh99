@@ -6,9 +6,9 @@
 - 🌱 **Currently Working On:** [Stack_Movie](https://stack-movies.vercel.app/) , [AgroTechAI](https://natural-farming-marketplace-portal.vercel.app/)<br>
 - 💬 Ask Me About: C++, Java, Python, Javascript, Backend, AIML. <br>
 - 📫 Reach Me At: [uveshalisaiyad@gmail.com](mailto:uveshalisaiyad@gmail.com) <br>
-- ⚡ About Me: **A Kuudere with a touch of intelligence.** <br>
+- ⚡ About Me: **I am highly interested in open source contribution to solve real world challenging Problems, build a robust solution with my backend and ML skills.** <br>
 - 💎 Smart + Hard work + Quick Adaptation + Critical Thinking + Honesty <br>
-- 🌎 I Know Gujarati, Hindi, English <br>
+- 🌎 I Know English, Hindi, Gujarati <br>
 - 📍 **Location:** India <br>
 
 <br>
