@@ -4,7 +4,7 @@
 <img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300"/>
 
 - 🌱 **Currently Working On:** [Stack_Movie](https://stack-movies.vercel.app/) , [AgroTechAI](https://natural-farming-marketplace-portal.vercel.app/)<br>
-- 💬 Ask Me About: C++, Java, Python, AIML. <br>
+- 💬 Ask Me About: C++, Java, Python, Javascript, Backend, AIML. <br>
 - 📫 Reach Me At: [uveshalisaiyad@gmail.com](mailto:uveshalisaiyad@gmail.com) <br>
 - ⚡ About Me: **A Kuudere with a touch of intelligence.** <br>
 - 💎 Smart + Hard work + Quick Adaptation + Critical Thinking + Honesty <br>
