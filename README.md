@@ -3,7 +3,7 @@
 
 <img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300"/>
 
-- 🌱 **Currently Working On:** [Stack_Movie](https://stack-movies.vercel.app/)<br>
+- 🌱 **Currently Working On:** [Stack_Movie](https://stack-movies.vercel.app/) , [AgroTechAI](https://natural-farming-marketplace-portal.vercel.app/)<br>
 - 💬 Ask Me About: C++, Java, Python, AIML. <br>
 - 📫 Reach Me At: [uveshalisaiyad@gmail.com](mailto:uveshalisaiyad@gmail.com) <br>
 - ⚡ About Me: **A Kuudere with a touch of intelligence.** <br>
@@ -29,7 +29,7 @@
 <div align="center">
 
 <a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,nodejs,express,jquery,materialui,tailwind,redux,ts,vite,mongodb,mysql,threejs,next,postman,cpp,java,python,aws,vercel,netlify,render,firebase,git,bash,github,kaggle,Tensorflow&perline=11" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,nodejs,express,jquery,materialui,tailwind,redux,ts,vite,mongodb,mysql,threejs,next,postman,cpp,java,python,tensorflow,aws,vercel,netlify,firebase,git,bash,github&perline=11" />
 </a>
 
 </div>
