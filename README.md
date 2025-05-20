@@ -3,9 +3,9 @@
 
 <img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300"/>
 
+- ⚡ About Me: **I am highly interested in open source contribution to solve real world challenging Problems, build a robust solution with my backend and ML skills.** <br>
 - 💬 Ask Me About: C++, Java, Python, Javascript, Backend, AIML. <br>
 - 📫 Reach Me At: [uveshalisaiyad@gmail.com](mailto:uveshalisaiyad@gmail.com) <br>
-- ⚡ About Me: **I am highly interested in open source contribution to solve real world challenging Problems, build a robust solution with my backend and ML skills.** <br>
 - 💎 Smart + Hard work + Quick Adaptation + Critical Thinking + Honesty <br>
 - 🌎 I Know English, Hindi, Gujarati <br>
 - 📍 **Location:** India <br>
